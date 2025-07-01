@@ -1,0 +1,13 @@
+{
+  "name": "ironcoder-poster",
+  "version": "1.0.0",
+  "description": "Auto-post random phone to online_users.php every 200ms",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "form-data": "^4.0.0"
+  }
+}
